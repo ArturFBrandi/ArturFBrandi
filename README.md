@@ -1,3 +1,3 @@
 ## About Me
 
-Software developer | FIAP Software Engineer
+Software developer at RWS Integration | FIAP Software Engineer
