@@ -5,7 +5,7 @@
 
 - I’m currently developing an indie game **Farmoria**
 
-- I’m currently contributing to a open-source project [RetroPalette](https://github.com/ArturFBrandi/RetroPalette)
+- Founder of an open-source project [RetroPalette](https://github.com/ArturFBrandi/RetroPalette)
 
 - 📫 How to reach me **artur@ebrandi.eti.br**
 
